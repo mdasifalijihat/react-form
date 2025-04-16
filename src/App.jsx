@@ -1,0 +1,19 @@
+import './App.css'
+import FormAction from './components/SimpleForm/FormAction'
+import SimpleForm from './components/SimpleForm/SimpleForm'
+
+function App() {
+ 
+
+  return (
+    <>
+     
+      <h1>Vite + React</h1>
+      {/* <SimpleForm></SimpleForm> */}
+      <FormAction></FormAction>
+      
+    </>
+  )
+}
+
+export default App
